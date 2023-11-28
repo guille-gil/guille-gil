@@ -17,7 +17,11 @@ In my recent role, I led a talented squad through the complexities of implementi
 
 ### 💻 Technical Skills
 
-![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-blue?style=flat&logo=sql) ![Looker](https://img.shields.io/badge/Looker-Data_Analytics-green?style=flat&logo=looker) ![BigQuery](https://img.shields.io/badge/BigQuery-Google-blue?style=flat&logo=google-cloud) ![ELT & Pipeline](https://img.shields.io/badge/ELT_&_Pipeline-Data_Transformation-orange?style=flat&logo=data) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Explore,_Analyze,_Visualize-yellow?style=flat&logo=data)
+- ![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-blue?style=flat&logo=sql)
+- ![Looker](https://img.shields.io/badge/Looker-Data_Analytics-green?style=flat&logo=looker)
+- ![BigQuery](https://img.shields.io/badge/BigQuery-Google-blue?style=flat&logo=google-cloud)
+- ![ELT & Pipeline](https://img.shields.io/badge/ELT_&_Pipeline-Data_Transformation-orange?style=flat&logo=data)
+- ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Explore,_Analyze,_Visualize-yellow?style=flat&logo=data)
 
 ### 🌐 Connect with Me
 
