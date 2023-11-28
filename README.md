@@ -12,7 +12,7 @@ In my recent role, I led a talented squad through the complexities of implementi
 
 - Bachelors from the University of Granada, Spain 🇪🇸
 - Exchange at the prestigious University of Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-- Currently exploring Technology and Operations Management at the University of Groningen 🇳🇱
+- Currently pursuing Technology and Operations Management at the University of Groningen 🇳🇱
 
 
 ### 💻 Technical Skills
