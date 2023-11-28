@@ -14,23 +14,17 @@ In my recent role, I led a talented squad through the complexities of implementi
 - Exchange at the prestigious University of Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 - Currently exploring Technology and Operations Management at the University of Groningen 🇳🇱
 
-### 🚀 Skills
-
-- Analytics
-- Data Warehousing
-- Project Management
-- Digital Business
 
 ### 💻 Technical Skills
 
-- **SQL**
+- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - **Looker**
 - **BigQuery**
 - **Data Analysis**
 
 ### 🌐 Connect with Me
 
-Let's connect! Find me on [LinkedIn](<[LinkedIn URL](https://www.linkedin.com/in/guillermo-gil-de-avalle-bellido/)>) and explore my thoughts on [Medium](<[Medium URL](https://medium.com/@aggildeavalle)>).
+Let's connect! Find me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ([LinkedIn URL](https://www.linkedin.com/in/guillermo-gil-de-avalle-bellido/)) and explore my thoughts on ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)([Medium URL](https://medium.com/@aggildeavalle)).
 
 ### 📈 Let's Build Something Amazing Together!
 
