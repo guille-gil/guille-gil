@@ -1,16 +1,37 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**guille-gil/guille-gil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+¡Saludos! I'm Guillermo Gil, a dynamic 25-year-old Analytics Product Manager based in London, UK, with a passion for transforming data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💼 Professional Background
+
+In my recent role, I led a talented squad through the complexities of implementing an Analytics ELT Data Warehouse. We harmonized eight years of diverse data sources, composing impactful reporting solutions for distinguished educational institutions.
+
+### 🎓 Education
+
+- Bachelors from the University of Granada, Spain 🇪🇸
+- Exchange at the prestigious University of Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- Currently exploring Technology and Operations Management at the University of Groningen 🇳🇱
+
+### 🚀 Skills
+
+- Analytics
+- Data Warehousing
+- Project Management
+- Digital Business
+
+### 💻 Technical Skills
+
+- **SQL**
+- **Looker**
+- **BigQuery**
+- **Data Analysis**
+
+### 🌐 Connect with Me
+
+Let's connect! Find me on [LinkedIn](<[LinkedIn URL](https://www.linkedin.com/in/guillermo-gil-de-avalle-bellido/)>) and explore my thoughts on [Medium](<[Medium URL](https://medium.com/@aggildeavalle)>).
+
+### 📈 Let's Build Something Amazing Together!
+
+Excited about new challenges and opportunities. Let's chat! 🚀
