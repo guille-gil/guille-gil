@@ -2,7 +2,7 @@
 
 ### About Me
 
-¡Saludos! I'm Guillermo Gil, a dynamic 25-year-old Analytics Product Manager based in London, UK, with a passion for transforming data into meaningful insights.
+¡Saludos! I'm Guille, a dynamic 25-year-old Analytics Product Manager based in London, UK, with a passion for transforming data into meaningful insights.
 
 ### 👨‍💼 Professional Background
 
