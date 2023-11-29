@@ -6,7 +6,7 @@
 
 ### 👨‍💼 Professional Background
 
-In my recent role, I led a talented squad through the complexities of implementing an Analytics ELT Data Warehouse. We harmonized eight years of diverse data sources, composing impactful reporting solutions for distinguished universities across the world.
+In my recent role, I led a talented squad through the complexities of implementing an Analytics ELT Data Warehouse. We harmonized eight years of diverse data sources, composing impactful reporting solutions for distinguished universities around the world.
 
 ### 🎓 Education
 
