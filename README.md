@@ -6,7 +6,7 @@
 
 ### 👨‍💼 Professional Background
 
-In my recent role as a Product Manager, I led a talented squad through the complexities of implementing an Analytics ELT Data Warehouse, harmonizing eight years of diverse data sources. Now, as a student, I dive deeper into data analysis, leveraging Python for insightful analyses and optimization models.
+In my recent role as a Product Manager, I led a talented squad through the complexities of implementing an Analytics ELT Data Warehouse, harmonizing eight years of diverse data sources. Now, as a student, I dive deeper into data analysis, leveraging Python for insightful analyses, optimization models, and machine learning.
 
 ### 🎓 Education
 
