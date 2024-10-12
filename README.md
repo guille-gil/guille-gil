@@ -2,7 +2,7 @@
 
 ### About Me
 
-¡Saludos! I'm Guille, a dynamic 25-year-old based in Groningen, NL, with a passion for transforming data into meaningful insights. Formerly an Analytics Product Manager, I now immerse myself in the world of technology and operations management as a dedicated coding student.
+¡Saludos! I'm Guille, a dynamic 26-year-old based in Groningen, NL, with a passion for transforming data into meaningful insights. Formerly an Analytics Product Manager, I now immerse myself in the world of technology and operations management as a dedicated coding student.
 
 ### 👨‍💼 Professional Background
 
